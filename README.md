@@ -34,7 +34,7 @@ Conjunto de exercícios introdutórios de programação em Python:
 
 ## Autor
 
-[Seu Nome]
+Gabriel Oliveira
 
 ## Licença
 
