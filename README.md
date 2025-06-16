@@ -35,7 +35,3 @@ Conjunto de exercícios introdutórios de programação em Python:
 ## Autor
 
 Gabriel Oliveira
-
-## Licença
-
-Este projeto está sob a licença [especificar licença].
