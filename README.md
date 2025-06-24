@@ -34,8 +34,4 @@ Conjunto de exercícios introdutórios de programação em Python:
 
 ## Autor
 
-[Seu Nome]
-
-## Licença
-
-Este projeto está sob a licença [especificar licença].
+Gabriel 
